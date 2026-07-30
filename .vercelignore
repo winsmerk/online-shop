@@ -1,0 +1,11 @@
+.git
+.next
+.playwright
+coverage
+playwright-report
+test-results
+tests
+storage/products
+public/generated
+*.log
+*.tsbuildinfo
